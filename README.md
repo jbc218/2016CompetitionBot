@@ -23,6 +23,6 @@ VisionCV will also be rewritten but I'm not sure what I'll do with it, as we nev
 Chances are, it'll be easier to only save tuned values and rewrite the project from scratch, so don't expect the next commit to look anything like this initial one.
 
 
-#Extra notes
+# Extra notes
 
 If you have any questions, sorry. My email is jbc218@gmail.com and I'll answer any questions you have. Even if it's 5 years from now, I'll make an effort to get back to you and help you.
